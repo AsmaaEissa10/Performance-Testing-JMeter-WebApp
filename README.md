@@ -1,6 +1,10 @@
-<div align="center" style="background-color:white; padding:20px; border-radius:12px;">
-  <img src="https://jmeter.apache.org/images/jmeter.png" style="width:80%; max-width:900px;"/>
-</div>
+<table align="center" bgcolor="white" cellpadding="20">
+  <tr>
+    <td align="center">
+      <img src="https://jmeter.apache.org/images/jmeter.png" width="900"/>
+    </td>
+  </tr>
+</table>
 
 🚀 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝘂𝘀𝗶𝗻𝗴 𝗝𝗠𝗲𝘁𝗲𝗿 𝗳𝗼𝗿 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
