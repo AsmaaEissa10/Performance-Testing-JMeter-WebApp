@@ -1,10 +1,14 @@
-<table align="center" bgcolor="white" cellpadding="20">
+<br><br>
+
+<table align="center" bgcolor="white" cellpadding="20" style="width:100%; border-radius:12px;">
   <tr>
     <td align="center">
-      <img src="https://jmeter.apache.org/images/jmeter.png" width="900"/>
+      <img src="https://static.cdnlogo.com/logos/j/98/jmeter_800.png" style="width:100%; max-width:1200px;" alt="Apache JMeter Logo"/>
     </td>
   </tr>
 </table>
+
+<br><br>
 
 🚀 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝘂𝘀𝗶𝗻𝗴 𝗝𝗠𝗲𝘁𝗲𝗿 𝗳𝗼𝗿 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
