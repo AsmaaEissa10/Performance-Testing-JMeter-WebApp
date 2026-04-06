@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://jmeter.apache.org/images/jmeter.png" width="400"/>
+</p>
+
 🚀 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝘂𝘀𝗶𝗻𝗴 𝗝𝗠𝗲𝘁𝗲𝗿 𝗳𝗼𝗿 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
 I recently worked on a practical performance testing project using Apache JMeter,
