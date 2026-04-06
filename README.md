@@ -1,9 +1,7 @@
-<br><br>
-
-<table align="center" bgcolor="white" cellpadding="20" style="width:100%; border-radius:12px;">
+<table align="center" bgcolor="white" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="https://static.cdnlogo.com/logos/j/98/jmeter_800.png" style="width:100%; max-width:1200px;" alt="Apache JMeter Logo"/>
+      <img src="https://jmeter.apache.org/images/jmeter.png" width="900"/>
     </td>
   </tr>
 </table>
